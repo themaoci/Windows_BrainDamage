@@ -1,3 +1,5 @@
+[Go To Main](https://github.com/themaoci/Windows_BrainDamage/blob/main/README.md)
+
 If you didnt checked the option while installing VSCode the code below will help you enable that option without reinstalling vscode
   
 Steps:
