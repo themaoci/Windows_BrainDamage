@@ -1,4 +1,4 @@
 # Windows Brain Damage
 
 List of Tweaks and Fixes:
-- [Open With VS Code]("https://github.com/themaoci/Windows_BrainDamage/VSCode/Open with VSCode.md")
+- [Open With VS Code](https://github.com/themaoci/Windows_BrainDamage/blob/main/VSCode/Open%20with%20VSCode.md)
